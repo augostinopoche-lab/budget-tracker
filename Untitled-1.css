@@ -1,0 +1,67 @@
+/* Element selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Element selector */
+h1 {
+    color: #1f4e79;
+    text-align: center;
+}
+
+/* Element selector */
+p {
+    text-align: center;
+}
+
+/* ID selector */
+#add-expense {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 500px;
+    border-radius: 10px;
+}
+
+/* ID selector */
+#add-expense h2 {
+    color: #1f4e79;
+}
+
+/* Element selector */
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+/* Element selector */
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+/* Element selector */
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Class selector */
+.expenses {
+    background-color: #e8f1f8;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 500px;
+    border-radius: 10px;
+}
+
+/* Class selector */
+.expenses h2 {
+    color: #333;
+}
